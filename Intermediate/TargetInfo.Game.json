@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RollBall",
+			"Path": "D:\\Code\\UnrealEngine\\RollBall\\Source\\RollBall.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RollBallEditor",
+			"Path": "D:\\Code\\UnrealEngine\\RollBall\\Source\\RollBallEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
